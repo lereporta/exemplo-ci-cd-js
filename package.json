@@ -1,18 +1,10 @@
 {
-  "name": "exemplo-ci-cd-js",
+  "name": "testeci-cd",
   "version": "1.0.0",
-  "description": "Exemplo de CI/CD com GitHub Actions e JavaScript",
-  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
-    "jest": "^29.0.0"
-  },
-  "jest": {
-    "testEnvironment": "node"
+    "jest": "^29.7.0"
   }
 }
-
