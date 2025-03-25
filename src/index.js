@@ -1,5 +1,5 @@
 function soma(a, b) {
-  return a + ba; //erro para teste
+  return a + b;
 }
 
 module.exports = soma;
