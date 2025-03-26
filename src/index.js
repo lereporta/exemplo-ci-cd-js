@@ -1,5 +1,5 @@
 function soma(a, b) {
-  return a + b;
+  return a + ba; //erro proposital
 }
 
 module.exports = soma;
